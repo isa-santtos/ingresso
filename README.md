@@ -2,7 +2,7 @@
 ###### Simulação de compra de ingressos
 
 
-## Objetivo do projeto
+## 🎯Objetivo do projeto
 ###### Desenvolver a lógica para que ao selecionar Tipo de Ingresso, a aplicação diminua a quantidade de ingressos disponíveis e informe ao usuário que a compra foi realizada.
 ###### Caso a quantidade digitada seja maior que a quantidade disponível, será apresentada uma mensagem de alerta ao usuário que a quantidade está indisponívell.
 ###### Implementei a melhoria de limpar o campo quantidade após a escolha de cada ingresso, pois a quantidade referente a escolha anterior permanecia no campo.
@@ -11,7 +11,7 @@
 
 
 
-## Tecnologia
+## ⚒️Tecnologia
 ###### JavaScript
 
 
